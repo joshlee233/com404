@@ -2,7 +2,7 @@ number_of_mountains = int(input("How many mountains should I display?"))
 
 count = 0
 
-for count in range(number_of_mountains ):
+for count in range(number_of_mountains):
     print("Displaying...")
     print("           __")
     print("          /  \_  ")
