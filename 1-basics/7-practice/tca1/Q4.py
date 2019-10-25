@@ -8,7 +8,3 @@ def item_from_suitcase(item):
     else:
         print("An unexpected item! It could be useful.")
     print("\n")
-
-item_from_suitcase("toothbrush")
-item_from_suitcase("belt")
-item_from_suitcase("spidey suit")
